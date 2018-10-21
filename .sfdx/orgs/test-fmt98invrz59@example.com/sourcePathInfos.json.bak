@@ -32,28 +32,28 @@
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 288,
             "modifiedTime": 1540160409905,
             "changeTime": 1540160409905,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura",
         {
-            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura",
             "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1540160230854,
+            "changeTime": 1540160230854,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
             "isMetadataFile": false,
-            "size": 160,
-            "modifiedTime": 1540160533984,
-            "changeTime": 1540160533984,
-            "isWorkspace": false,
-            "contentHash": "9c98372a45cf06c7fb95ee4aa450766e3a658e86"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -281,14 +281,14 @@
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
             "isDirectory": false,
+            "size": 155,
+            "modifiedTime": 1540160250741,
+            "changeTime": 1540160250741,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
             "isMetadataFile": false,
-            "size": 182,
-            "modifiedTime": 1540160628486,
-            "changeTime": 1540160628486,
-            "contentHash": "f0aad58c6510048b7f88251e480b43431d0b9784"
+            "state": "u"
         }
     ],
     [
@@ -385,352 +385,92 @@
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1540160409902,
             "changeTime": 1540160409902,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1540160409905,
             "changeTime": 1540160409905,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1540160409908,
             "changeTime": 1540160409908,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18084,
             "modifiedTime": 1540160409918,
             "changeTime": 1540160409918,
-            "contentHash": "ccab3d59ff5aa5ac0a953e2298661c19de2993c5",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ccab3d59ff5aa5ac0a953e2298661c19de2993c5"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1540160409920,
             "changeTime": 1540160409920,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/tabs",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1540160409902,
             "changeTime": 1540160409902,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles",
         {
+            "state": "u",
             "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1540160409920,
             "changeTime": 1540160409920,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1540160533987,
-            "changeTime": 1540160533987,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 352,
-            "modifiedTime": 1540160465324,
-            "changeTime": 1540160465324,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1540160533987,
-            "changeTime": 1540160533987,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 339,
-            "modifiedTime": 1540160558086,
-            "changeTime": 1540160558086,
-            "contentHash": "f9bd7187bf9a569cd90222e052f48aa1c9164a5a"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1540160533985,
-            "changeTime": 1540160533985,
-            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 111,
-            "modifiedTime": 1540160595228,
-            "changeTime": 1540160595228,
-            "contentHash": "ff97680a451dccf775d504143f673481b13a3300"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1540160533987,
-            "changeTime": 1540160533987,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1540160533986,
-            "changeTime": 1540160533986,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 255,
-            "modifiedTime": 1540160577071,
-            "changeTime": 1540160577071,
-            "contentHash": "852714ef85a9eacf436a155236a97021f5688cef"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1540160533985,
-            "changeTime": 1540160533985,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountList/AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1540160533986,
-            "changeTime": 1540160533986,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1540160465324,
-            "changeTime": 1540160465324,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 121,
-            "modifiedTime": 1540160484003,
-            "changeTime": 1540160484003,
-            "contentHash": "c2ab5bf1904268e2a6f09485e65d23c5c4d91f4a"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1540160465322,
-            "changeTime": 1540160465322,
-            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 168,
-            "modifiedTime": 1540160499311,
-            "changeTime": 1540160499311,
-            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1540160465324,
-            "changeTime": 1540160465324,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1540160465323,
-            "changeTime": 1540160465323,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1540160465322,
-            "changeTime": 1540160465322,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1540160465323,
-            "changeTime": 1540160465323,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "/Users/MacBook/Dropbox/SFDX/geolocation/geolocation/force-app/main/default/aura/AccountListItem/AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1540160465323,
-            "changeTime": 1540160465323,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
