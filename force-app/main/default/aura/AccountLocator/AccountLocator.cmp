@@ -3,6 +3,7 @@
         <div>AccountMap goes there</div>
         <div>
           <c:AccountList/>
+        
         </div>
     </div>
 </aura:component>
